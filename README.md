@@ -1,2 +1,0 @@
-# ReactReduxOne
-Created with CodeSandbox
